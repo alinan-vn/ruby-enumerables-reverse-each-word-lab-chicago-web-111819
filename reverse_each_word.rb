@@ -5,3 +5,5 @@ def reverse_each_word(str_arg)
   #array.each { |s|     }
   return array 
 end 
+
+reverse_each_word("hello how are you")
